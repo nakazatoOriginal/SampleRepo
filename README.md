@@ -6,8 +6,8 @@
 - MarkDownの書き方を覚えましょう:point_up:
 
 
-MarkDownの書き方
-##### 箇条書き 
+## MarkDownの書き方
+###### 箇条書き 
  ~~~
 [記述]
  <ol>
