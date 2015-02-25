@@ -1,16 +1,12 @@
-#ＧｉｔＨｕｂ何ができるの？
----
+# GitHub??
 
-- ＧｉｔＨｕｂのテスト環境です。
-使い方を覚えましょう:exclamation:
 
 - MarkDownの書き方を覚えましょう:point_up:
 
 
 ## MarkDownの書き方
 ---
-
-参考URL：http://version1.a-blogcms.jp/support/manual/post/markdown.html
+[サンプル集](http://qiita.com/tbpgr/items/989c6badefff69377da7#1-1)
 
 ###### タイトル
 ```
