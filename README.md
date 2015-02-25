@@ -1,6 +1,23 @@
-#�f�����g���������ł���́H
+#ＧｉｔＨｕｂ何ができるの？
 
-- �f�����g�����̃e�X�g���ł��B
-�g�������o���܂��傤:exclamation:
+- ＧｉｔＨｕｂのテスト環境です。
+使い方を覚えましょう:exclamation:
 
-- MarkDown�̏��������o���܂��傤:point_up:
+- MarkDownの書き方を覚えましょう:point_up:
+
+
+MarkDownの書き方
+##### 箇条書き 
+ ~~~
+[記述]
+ <ol>
+  <li>A1</li>
+  <li>A2</li>
+ </ol>
+
+[結果]
+  1.A1
+  2.A2
+ ~~~
+ 
+ 
