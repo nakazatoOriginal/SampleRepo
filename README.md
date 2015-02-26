@@ -4,7 +4,7 @@
 - MarkDownの書き方を覚えましょう:point_up:
 
 
-## MarkDownの書き方
+## MarkDown??
 ---
 [サンプル集](http://qiita.com/tbpgr/items/989c6badefff69377da7#1-1)
 
